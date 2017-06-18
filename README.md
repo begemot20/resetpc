@@ -1,0 +1,2 @@
+# resetpc
+relay on python
